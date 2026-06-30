@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Modern business office</title>
+  <desc id="desc">Abstract premium office interior with glass panels, meeting table, and city light accents.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#12364a"/>
+      <stop offset="0.5" stop-color="#0e5870"/>
+      <stop offset="1" stop-color="#071f2d"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2cf78"/>
+      <stop offset="1" stop-color="#b98222"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#wall)"/>
+  <path d="M0 690h1600v310H0z" fill="#061925" opacity=".8"/>
+  <path d="M170 160h420v500H170zM650 120h310v540H650zM1030 180h400v480h-400z" fill="#d9edf4" opacity=".12"/>
+  <path d="M205 205h350M205 285h350M205 365h350M205 445h350M205 525h350M685 205h240M685 285h240M685 365h240M685 445h240M1065 255h330M1065 335h330M1065 415h330M1065 495h330" stroke="#ffffff" stroke-width="5" opacity=".18"/>
+  <path d="M230 700h1140l-130 180H360z" fill="#08283a"/>
+  <path d="M470 670h660l130 210H340z" fill="#0b3e52"/>
+  <path d="M552 648h496l55 82H498z" fill="url(#gold)" opacity=".88"/>
+  <path d="M420 735h760" stroke="#ffffff" stroke-width="6" opacity=".12"/>
+  <circle cx="1270" cy="240" r="92" fill="url(#gold)" opacity=".35"/>
+  <circle cx="1320" cy="245" r="38" fill="#fff3cc" opacity=".38"/>
+  <path d="M120 820c250-96 490-112 720-45 190 55 398 41 640-43" fill="none" stroke="#c99a3d" stroke-width="6" opacity=".35"/>
+</svg>
